@@ -1,5 +1,5 @@
 # Deploy the solution for Azure SQL Database
-
+HELLO
 In this section, you will provision all Azure resources required to complete this PoC.
 
 ## Deployment options
